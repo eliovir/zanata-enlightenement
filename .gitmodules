@@ -1,0 +1,196 @@
+[submodule "src/apps/econnman"]
+	path = src/apps/econnman
+	url = git://git.enlightenment.org/apps/econnman
+	branch = master
+[submodule "src/apps/ecrire"]
+	path = src/apps/ecrire
+	url = git://git.enlightenment.org/apps/ecrire
+	branch = master
+[submodule "src/apps/empc"]
+	path = src/apps/empc
+	url = git://git.enlightenment.org/apps/empc
+	branch = master
+[submodule "src/apps/epour"]
+	path = src/apps/epour
+	url = git://git.enlightenment.org/apps/epour
+	branch = master
+[submodule "src/apps/espionage"]
+	path = src/apps/espionage
+	url = git://git.enlightenment.org/apps/espionage
+	branch = master
+[submodule "src/apps/terminology"]
+	path = src/apps/terminology
+	url = git://git.enlightenment.org/apps/terminology
+	branch = master
+[submodule "src/core/efl"]
+	path = src/core/efl
+	url = git://git.enlightenment.org/core/efl
+	branch = master
+[submodule "src/core/elementary"]
+	path = src/core/elementary
+	url = git://git.enlightenment.org/core/elementary
+	branch = master
+[submodule "src/core/enlightenment"]
+	path = src/core/enlightenment
+	url = git://git.enlightenment.org/core/enlightenment
+	branch = master
+[submodule "src/devs/ceolin/epulse"]
+	path = src/devs/ceolin/epulse
+	url = git://git.enlightenment.org/devs/ceolin/epulse
+	branch = master
+[submodule "src/devs/devilhorns/emote"]
+	path = src/devs/devilhorns/emote
+	url = git://git.enlightenment.org/devs/devilhorns/emote
+	branch = master
+[submodule "src/devs/huchi/eon"]
+	path = src/devs/huchi/eon
+	url = git://git.enlightenment.org/devs/huchi/eon
+	branch = master
+[submodule "src/devs/ngc891/eperiodique"]
+	path = src/devs/ngc891/eperiodique
+	url = git://git.enlightenment.org/devs/ngc891/eperiodique
+	branch = master
+[submodule "src/devs/rimmed/eflete"]
+	path = src/devs/rimmed/eflete
+	url = git://git.enlightenment.org/devs/rimmed/eflete
+	branch = master
+[submodule "src/e16/e16"]
+	path = src/e16/e16
+	url = git://git.enlightenment.org/e16/e16
+	branch = master
+[submodule "src/enlightenment/modules/alarm"]
+	path = src/enlightenment/modules/alarm
+	url = git://git.enlightenment.org/enlightenment/modules/alarm
+	branch = master
+[submodule "src/enlightenment/modules/cpu"]
+	path = src/enlightenment/modules/cpu
+	url = git://git.enlightenment.org/enlightenment/modules/cpu
+	branch = master
+[submodule "src/enlightenment/modules/empris"]
+	path = src/enlightenment/modules/empris
+	url = git://git.enlightenment.org/enlightenment/modules/empris
+	branch = master
+[submodule "src/enlightenment/modules/engage"]
+	path = src/enlightenment/modules/engage
+	url = git://git.enlightenment.org/enlightenment/modules/engage
+	branch = master
+[submodule "src/enlightenment/modules/eweather"]
+	path = src/enlightenment/modules/eweather
+	url = git://git.enlightenment.org/enlightenment/modules/eweather
+	branch = master
+[submodule "src/enlightenment/modules/forecasts"]
+	path = src/enlightenment/modules/forecasts
+	url = git://git.enlightenment.org/enlightenment/modules/forecasts
+	branch = master
+[submodule "src/enlightenment/modules/mail"]
+	path = src/enlightenment/modules/mail
+	url = git://git.enlightenment.org/enlightenment/modules/mail
+	branch = master
+[submodule "src/enlightenment/modules/moon"]
+	path = src/enlightenment/modules/moon
+	url = git://git.enlightenment.org/enlightenment/modules/moon
+	branch = master
+[submodule "src/enlightenment/modules/mpdule"]
+	path = src/enlightenment/modules/mpdule
+	url = git://git.enlightenment.org/enlightenment/modules/mpdule
+	branch = master
+[submodule "src/enlightenment/modules/net"]
+	path = src/enlightenment/modules/net
+	url = git://git.enlightenment.org/enlightenment/modules/net
+	branch = master
+[submodule "src/enlightenment/modules/news"]
+	path = src/enlightenment/modules/news
+	url = git://git.enlightenment.org/enlightenment/modules/news
+	branch = master
+[submodule "src/enlightenment/modules/penguins"]
+	path = src/enlightenment/modules/penguins
+	url = git://git.enlightenment.org/enlightenment/modules/penguins
+	branch = master
+[submodule "src/enlightenment/modules/photo"]
+	path = src/enlightenment/modules/photo
+	url = git://git.enlightenment.org/enlightenment/modules/photo
+	branch = master
+[submodule "src/enlightenment/modules/places"]
+	path = src/enlightenment/modules/places
+	url = git://git.enlightenment.org/enlightenment/modules/places
+	branch = master
+[submodule "src/enlightenment/modules/tclock"]
+	path = src/enlightenment/modules/tclock
+	url = git://git.enlightenment.org/enlightenment/modules/tclock
+	branch = master
+[submodule "src/enlightenment/modules/wlan"]
+	path = src/enlightenment/modules/wlan
+	url = git://git.enlightenment.org/enlightenment/modules/wlan
+	branch = master
+[submodule "src/games/elemines"]
+	path = src/games/elemines
+	url = git://git.enlightenment.org/games/elemines
+	branch = master
+[submodule "src/games/etrophy"]
+	path = src/games/etrophy
+	url = git://git.enlightenment.org/games/etrophy
+	branch = master
+[submodule "src/tools/edi"]
+	path = src/tools/edi
+	url = git://git.enlightenment.org/tools/edi
+	branch = master
+[submodule "src/apps/enjoy"]
+	path = src/apps/enjoy
+	url = git://git.enlightenment.org/apps/enjoy
+	branch = master
+[submodule "src/apps/ephoto"]
+	path = src/apps/ephoto
+	url = git://git.enlightenment.org/apps/ephoto
+	branch = master
+[submodule "src/apps/eruler"]
+	path = src/apps/eruler
+	url = git://git.enlightenment.org/apps/eruler
+	branch = master
+[submodule "src/devs/billiob/empeedee"]
+	path = src/devs/billiob/empeedee
+	url = git://git.enlightenment.org/devs/billiob/empeedee
+	branch = master
+[submodule "src/devs/discomfitor/e_physics"]
+	path = src/devs/discomfitor/e_physics
+	url = git://git.enlightenment.org/devs/discomfitor/e_physics
+	branch = master
+[submodule "src/devs/discomfitor/maelstrom"]
+	path = src/devs/discomfitor/maelstrom
+	url = git://git.enlightenment.org/devs/discomfitor/maelstrom
+	branch = master
+[submodule "src/devs/kuuko/editje"]
+	path = src/devs/kuuko/editje
+	url = git://git.enlightenment.org/devs/kuuko/editje
+	branch = master
+[submodule "src/devs/sachiel/maelstrom"]
+	path = src/devs/sachiel/maelstrom
+	url = git://git.enlightenment.org/devs/sachiel/maelstrom
+	branch = master
+[submodule "src/enlightenment/modules/desksanity"]
+	path = src/enlightenment/modules/desksanity
+	url = git://git.enlightenment.org/enlightenment/modules/desksanity
+	branch = master
+[submodule "src/enlightenment/modules/diskio"]
+	path = src/enlightenment/modules/diskio
+	url = git://git.enlightenment.org/enlightenment/modules/diskio
+	branch = master
+[submodule "src/enlightenment/modules/elev8"]
+	path = src/enlightenment/modules/elev8
+	url = git://git.enlightenment.org/enlightenment/modules/elev8
+	branch = master
+[submodule "src/enlightenment/modules/share"]
+	path = src/enlightenment/modules/share
+	url = git://git.enlightenment.org/enlightenment/modules/share
+	branch = master
+[submodule "src/games/e_cho"]
+	path = src/games/e_cho
+	url = git://git.enlightenment.org/games/e_cho
+	branch = master
+[submodule "src/games/econcentration"]
+	path = src/games/econcentration
+	url = git://git.enlightenment.org/games/econcentration
+	branch = master
+[submodule "src/libs/libeweather"]
+	path = src/libs/libeweather
+	url = git://git.enlightenment.org/libs/libeweather
+	branch = master

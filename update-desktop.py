@@ -1,27 +1,27 @@
 #!/usr/bin/env python
 # -*- coding: ISO8859-15 -*-
-# $Id: update-e17-l10n-from-desktop.py,v 1 2013-06-30 14:57:00CEST Eliovir $
+# $Id: update-desktop.py,v 1 2015-03-03 08:00:00CEST Eliovir $
 #
 # Author : Eliovir
 # Creation Date : 2013-06-30 14:57:00CEST
-# Last Revision : $Date: 2013-06-30 14:57:00CEST $
+# Last Revision : $Date: 2015-03-03 08:00:00CEST $
 # Revision : $Rev: 1 $
-# update-e17-l10n-from-desktop.py
+# update-desktop.py
 """
 [1mNAME[m
-        update-e17-l10n-from-desktop.py - update gettext files for .desktop files.
+        update-desktop.py - update gettext files for .desktop files.
 
 [1mDESCRIPTION[m
         to get polib, use hg clone https://bitbucket.org/izi/polib/
 
 [1mEXAMPLE[m
-        ./update-e17-l10n-from-desktop.py src --import-po
+        ./update-desktop.py src --import-po
 
 [1mAUTHOR[m
         Eliovir
 
 [1mVERSION[m
-        $Date: 2013-06-30 14:57:00 +0100 (dim, 30 juin 2013) $
+        $Date: 2015-03-03 08:00:00 +0100 (mar, 03 mars 2015) $
 """
 __revision__ = "$Rev: 1 $"
 __author__ = "Eliovir"

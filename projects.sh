@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PACKAGES=" \
+PROJECTS=" \
 apps/econnman:master \
 apps/ecrire:master \
 apps/empc:master \
@@ -41,7 +41,7 @@ games/etrophy:master \
 tools/edi:master \
 "
 # Those only contains .desktop{,.in} files
-PACKAGES=$PACKAGES" \
+PROJECTS=$PROJECTS" \
 apps/enjoy:master \
 apps/ephoto:master \
 apps/eruler:master \
@@ -58,3 +58,8 @@ games/e_cho:master \
 games/econcentration:master \
 libs/libeweather:master \
 "
+
+# Variables for scripts.
+RE="^([^-]+):(.*)$"
+SRC=$(pwd)
+

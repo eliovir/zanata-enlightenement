@@ -5,12 +5,13 @@
     <project-version>master</project-version>
     <project-type>gettext</project-type>
     <src-dir>src</src-dir>
-    <trans-dir>src</trans-dir>
+    <trans-dir>i18n</trans-dir>
     <includes>**/po/*.pot</includes>
     <excludes>polib/**/*.pot</excludes>
     <locales>
         <locale>ar</locale>
         <locale>bg</locale>
+        <locale>bs</locale>
         <locale>ca</locale>
         <locale>cs</locale>
         <locale>da</locale>
