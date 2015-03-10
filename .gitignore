@@ -1,3 +1,4 @@
-src/desktop
-polib
-.zanata-cache
+i18n/
+polib/
+src/desktop/
+.zanata-cache/
